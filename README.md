@@ -7,7 +7,7 @@ ___
 # KONSERVASI MANGROVE BERBASIS BLOCKCHAIN 🌱
 
 ## 🌐 Akses Aplikasi Web
-[![Open GitHub Pages](https://img.shields.io/badge/🚀_Live_Demo-Klik_Disini-blue?style=for-the-badge)](https://arry-hutomo.github.io/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/)
+[![Open GitHub Pages](https://img.shields.io/badge/🚀_LMS_ARRYHUTOMO-Klik_Disini-blue?style=for-the-badge)](https://arry-hutomo.github.io/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/)
 
 
 ___
