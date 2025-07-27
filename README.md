@@ -3,3 +3,8 @@ Selamat datang di tutorial konservasi mangrove berbasis blockchain! Pelajari var
 
 ___
 ![KONSERVASI MANGROVE BERBASIS BLOCKCHAIN](https://github.com/arry-hutomo/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/blob/main/KONSERVASI%20MANGROVE%20BERBASIS%20BLOCKCHAIN.png)
+___
+## 📚 Dokumen Tutorial
+
+### Link Langsung ke PDF di GitHub
+[Tutorial Konservasi Mangrove di Indonesia.pdf](https://github.com/arry-hutomo/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/blob/main/Tutorial%20Konservasi%20Mangrove%20di%20Indonesia.pdf)
